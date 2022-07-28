@@ -1,5 +1,41 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@400;600&display=swap');
 
-body{
+body {
     font-family: 'Poppins', sans-serif;
+}
+
+.carousel-caption {
+    bottom: 0px;
+    background-color: rgba(0, 0, 0, 0.568);
+    padding: 15% 20%;
+    left: 0;
+    top: 0;
+    right: 0;
+
+}
+
+.button {
+    text-decoration: none;
+    color: white;
+    background: #289BDE;
+    padding: 13px 33px;
+    border-radius: 5px;
+}
+.button:hover{
+    color:#289BDE ;
+    background: white;
+}
+a.button {
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 20px;
+}
+.Price{
+    color: #289BDE;
+}
+.dark02{
+    color: #4A4A4A;
+}
+.dark-03{
+    color: #777777;
 }
