@@ -24,6 +24,7 @@ body {
 .button:hover{
     color:#289BDE ;
     background: white;
+    border: 1px solid #289BDE;
 }
 a.button {
     font-family: 'Poppins';
@@ -35,6 +36,9 @@ a.button {
 }
 .register-bg{
     background: #289BDE;
+}
+.explore-bg{
+    background: #F4FAFD;
 }
 .dark02{
     color: #4A4A4A;
@@ -53,4 +57,9 @@ ul>li>a>i{
 ul>li {
     list-style: none;
 
+}
+.fa-star{
+    color: rgb(252, 180, 0);
+    
+    ;
 }
