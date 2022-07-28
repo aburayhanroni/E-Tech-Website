@@ -33,9 +33,24 @@ a.button {
 .Price{
     color: #289BDE;
 }
+.register-bg{
+    background: #289BDE;
+}
 .dark02{
     color: #4A4A4A;
 }
 .dark-03{
     color: #777777;
+}
+footer{
+    background: #161616;
+}
+ul>li>a>i{
+    background: #242424;
+    padding: 10px;
+    border-radius: 25px;
+}
+ul>li {
+    list-style: none;
+
 }
